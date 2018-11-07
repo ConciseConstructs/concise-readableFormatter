@@ -1,0 +1,31 @@
+{
+  "name": "concise-readableformatter",
+  "version": "1.0.0",
+  "description": "Format content using self-explanatory keywords instead of escaped characters",
+  "main": "ReadableFormatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConciseConstructs/concise-readableFormatter.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "node",
+    "nodejs",
+    "format",
+    "formatting",
+    "string",
+    "content",
+    "file",
+    "fs"
+  ],
+  "author": "Concise Constructs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConciseConstructs/concise-readableFormatter/issues"
+  },
+  "homepage": "https://github.com/ConciseConstructs/concise-readableFormatter#readme"
+}
